@@ -1,2 +1,2 @@
 # ink2_content
-Used for markdown content for INK2 newspaper system.
+Markdown content for INK2 system.
